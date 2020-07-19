@@ -1,5 +1,5 @@
-##Hipotesi's Instagram Bot v.1.0
-##==============================
+#Hipotesi's Instagram Bot v.1.0
+#==============================
 
 Instagram bot that auto-likes photos by hashtag.  Written in Python using the Pycurl library.
 This bot gets you more likes and followers on your Instagram account.  
